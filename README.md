@@ -141,22 +141,4 @@ Refer to `.env.example` for required configuration:
 php artisan test
 ```
 
-## Security Considerations
-- Implement role-based access control
-- Secure WebSocket connections
-- Validate and sanitize all inputs
-- Use environment-specific configurations
 
-## Deployment Checklist
-- Configure production environment variables
-- Set up SSL for WebSocket
-- Implement comprehensive logging
-- Configure production database
-- Set up monitoring and error tracking
-
-## Contributing
-1. Fork the repository
-2. Create a feature branch
-3. Commit changes
-4. Push to branch
-5. Create a Pull Request
