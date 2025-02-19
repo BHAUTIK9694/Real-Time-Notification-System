@@ -160,9 +160,3 @@ php artisan test
 3. Commit changes
 4. Push to branch
 5. Create a Pull Request
-
-## License
-[Specify Your License]
-
-## Support
-For issues or questions, please open a GitHub issue or contact support@example.com
