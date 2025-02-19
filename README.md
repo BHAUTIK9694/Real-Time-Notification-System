@@ -1,13 +1,5 @@
 # Real-Time Notification System
 
-## Project Deliverables
-
-### Repository Contents
-- Laravel API Implementation
-- WebSocket Integration
-- Comprehensive API Documentation
-- Detailed Setup Instructions
-
 ## Project Overview
 
 A robust real-time notification system built with Laravel, featuring multi-channel notifications, WebSocket integration, and secure communication.
